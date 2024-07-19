@@ -1,5 +1,6 @@
 # AdBlock rules refresh time: 2024-01-22 01:41:55
-
+||/*/eapi/ad/get*/^$important
+||gslb.ugslb.net^$important
 ||0.code.cotsta.ru^
 ||0.net.easyjet.com^
 ||0001.best^
