@@ -5,3 +5,6 @@
 @@||highway-tb.ele.me^$important
 @@||waimai-guide.ele.me^$important
 @@||rsc-api.ele.me^$important
+
+#腾讯
+@@||ssl.msdk.qq.com^$important
