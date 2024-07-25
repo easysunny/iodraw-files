@@ -4,3 +4,4 @@
 @@||shopping.ele.me^$important
 @@||highway-tb.ele.me^$important
 @@||waimai-guide.ele.me^$important
+@@||rsc-api.ele.me^$important
