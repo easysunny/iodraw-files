@@ -1,3 +1,8 @@
+# 拦截
+||g1.xn--5nqw9cu4a093d.xn--io0a7i^$important
+||n7q46v.xn--55qx5d^$important
+||b0tp7pc6a827b.cc^$important
+
 # AdBlock rules refresh time: 2024-01-22 01:41:55
 ||/*/eapi/ad/get*/^$important
 ||gslb.ugslb.net^$important
