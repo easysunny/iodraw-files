@@ -8,3 +8,9 @@
 
 #腾讯
 @@||ssl.msdk.qq.com^$important
+
+#搜狗
+@@||shouji.sougou.com^$important
+
+#小米
+@@||a0.app.xiaomi.com^$important
