@@ -183,7 +183,7 @@
           <mxGeometry x="-100" y="588" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bPR1C2Ivj8dWVAz6RrLP-75" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; text-align: center; text-wrap-mode: nowrap;&quot;&gt;qrcode&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; text-align: center; text-wrap-mode: nowrap;&quot;&gt;状态&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; text-wrap-mode: nowrap;&quot;&gt;StRecycle&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; text-wrap-mode: nowrap;&quot;&gt;stRecycleProductDetail&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; text-align: center; text-wrap-mode: nowrap;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; text-align: center; text-wrap-mode: nowrap;&quot;&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="980" width="180" height="120" as="geometry" />
+          <mxGeometry x="-680" y="1020" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
