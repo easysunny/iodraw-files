@@ -114,7 +114,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bPR1C2Ivj8dWVAz6RrLP-32" value="查找是否存在相应T1且未校验的定义核销年月为上月的回收单" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="440" width="200" height="80" as="geometry" />
+          <mxGeometry x="140" y="430" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bPR1C2Ivj8dWVAz6RrLP-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="bPR1C2Ivj8dWVAz6RrLP-32" target="bPR1C2Ivj8dWVAz6RrLP-12">
           <mxGeometry relative="1" as="geometry">
@@ -198,7 +198,7 @@
           <mxGeometry x="410" y="690" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bPR1C2Ivj8dWVAz6RrLP-88" value="Normal2Component" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="200" y="730" width="140" height="40" as="geometry" />
+          <mxGeometry x="150" y="720" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
