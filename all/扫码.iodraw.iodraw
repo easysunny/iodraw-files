@@ -188,7 +188,7 @@
         <mxCell id="bPR1C2Ivj8dWVAz6RrLP-74" value="StRecycle" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-700" y="968" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bPR1C2Ivj8dWVAz6RrLP-75" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bPR1C2Ivj8dWVAz6RrLP-75" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; text-align: center; text-wrap-mode: nowrap;&quot;&gt;qrcode&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-130" y="980" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
