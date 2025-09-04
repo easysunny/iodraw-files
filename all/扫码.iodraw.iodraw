@@ -197,6 +197,12 @@
         <mxCell id="bPR1C2Ivj8dWVAz6RrLP-79" value="NormalComponent" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-510" y="380" width="130" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="bPR1C2Ivj8dWVAz6RrLP-80" value="AbnormalEnd" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="420" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bPR1C2Ivj8dWVAz6RrLP-81" value="createNode1" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="613" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
