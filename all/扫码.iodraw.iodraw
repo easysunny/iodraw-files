@@ -197,6 +197,9 @@
         <mxCell id="bPR1C2Ivj8dWVAz6RrLP-87" value="Abnormal2End" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="410" y="690" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="bPR1C2Ivj8dWVAz6RrLP-88" value="Normal2Component" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="730" width="140" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
