@@ -194,6 +194,9 @@
         <mxCell id="bPR1C2Ivj8dWVAz6RrLP-85" value="qrCodeStatusSwitch2" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="420" y="530" width="150" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="bPR1C2Ivj8dWVAz6RrLP-87" value="Abnormal2End" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="480" y="700" width="110" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
