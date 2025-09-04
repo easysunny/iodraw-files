@@ -29,6 +29,11 @@
         <mxCell id="bPR1C2Ivj8dWVAz6RrLP-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bPR1C2Ivj8dWVAz6RrLP-5" target="bPR1C2Ivj8dWVAz6RrLP-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="bPR1C2Ivj8dWVAz6RrLP-71" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bPR1C2Ivj8dWVAz6RrLP-31">
+          <mxGeometry x="-0.1019" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bPR1C2Ivj8dWVAz6RrLP-5" value="是否符合条件&lt;br&gt;经销商" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="250" width="140" height="70" as="geometry" />
         </mxCell>
@@ -177,8 +182,8 @@
         <mxCell id="bPR1C2Ivj8dWVAz6RrLP-69" value="回收单改变" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="-100" y="588" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bPR1C2Ivj8dWVAz6RrLP-70" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-600" y="960" width="120" height="60" as="geometry" />
+        <mxCell id="bPR1C2Ivj8dWVAz6RrLP-70" value="BC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="940" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
