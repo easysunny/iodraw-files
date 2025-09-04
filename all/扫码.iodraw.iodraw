@@ -182,6 +182,9 @@
         <mxCell id="bPR1C2Ivj8dWVAz6RrLP-69" value="回收单改变" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="-100" y="588" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="bPR1C2Ivj8dWVAz6RrLP-72" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-665" y="908" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
