@@ -17,13 +17,16 @@
           <mxGeometry x="-220" y="600" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1wBBg3HY5f8FmNafi3Q6-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;用户端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="600" width="130" height="40" as="geometry" />
+          <mxGeometry x="690" y="600" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1wBBg3HY5f8FmNafi3Q6-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;用户端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="600" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1wBBg3HY5f8FmNafi3Q6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.515;entryY=0.175;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1wBBg3HY5f8FmNafi3Q6-3" target="1wBBg3HY5f8FmNafi3Q6-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1wBBg3HY5f8FmNafi3Q6-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
