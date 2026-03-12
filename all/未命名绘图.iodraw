@@ -25,7 +25,7 @@
         <mxCell id="1wBBg3HY5f8FmNafi3Q6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.515;entryY=0.175;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1wBBg3HY5f8FmNafi3Q6-3" target="1wBBg3HY5f8FmNafi3Q6-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1wBBg3HY5f8FmNafi3Q6-11" value="用户认证" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="1wBBg3HY5f8FmNafi3Q6-11" value="用户认证" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="-500" y="700" width="50" height="150" as="geometry" />
         </mxCell>
         <mxCell id="1wBBg3HY5f8FmNafi3Q6-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
