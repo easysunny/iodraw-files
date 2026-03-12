@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="24.7.17">
   <diagram id="ei6uB6gE68pwZZr4ozbJ" name="第 1 页">
-    <mxGraphModel dx="14658" dy="10093" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="19620" dy="13600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,13 +22,13 @@
         <mxCell id="edge_m1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0.5;entryY=0;strokeWidth=1.5;endArrow=none;" parent="1" source="root_node" target="mod_1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u1" value="用户认证功能" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="u1" value="用户认证" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-2640" y="-1150" width="45" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="u2" value="用户管理功能" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;textDirection=vertical-lr;" parent="1" vertex="1">
+        <mxCell id="u2" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="-2513" y="-1150" width="45" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="u3" value="个人中心模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;textDirection=vertical-lr;" parent="1" vertex="1">
+        <mxCell id="u3" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="-2385" y="-1150" width="45" height="160" as="geometry" />
         </mxCell>
         <mxCell id="eu1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;endArrow=none;" parent="1" source="mod_1" target="u1" edge="1" />
