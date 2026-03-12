@@ -61,8 +61,8 @@
         <mxCell id="1wBBg3HY5f8FmNafi3Q6-25" value="数据统计" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="290" y="730" width="50" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="1wBBg3HY5f8FmNafi3Q6-26" value="数据统计" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="300" y="740" width="50" height="150" as="geometry" />
+        <mxCell id="1wBBg3HY5f8FmNafi3Q6-26" value="订单处理" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="430" y="740" width="50" height="150" as="geometry" />
         </mxCell>
         <mxCell id="1wBBg3HY5f8FmNafi3Q6-27" value="商品管理" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="500" y="740" width="50" height="150" as="geometry" />
