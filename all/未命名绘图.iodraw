@@ -71,13 +71,13 @@
           <mxGeometry x="540" y="740" width="50" height="150" as="geometry" />
         </mxCell>
         <mxCell id="1wBBg3HY5f8FmNafi3Q6-30" value="系统设置" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="710" width="50" height="150" as="geometry" />
+          <mxGeometry x="1200" y="720" width="50" height="150" as="geometry" />
         </mxCell>
         <mxCell id="1wBBg3HY5f8FmNafi3Q6-31" value="分类管理" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="710" width="50" height="150" as="geometry" />
+          <mxGeometry x="1090" y="720" width="50" height="150" as="geometry" />
         </mxCell>
         <mxCell id="1wBBg3HY5f8FmNafi3Q6-32" value="留言反馈" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="700" width="50" height="150" as="geometry" />
+          <mxGeometry x="1310" y="730" width="50" height="150" as="geometry" />
         </mxCell>
         <mxCell id="1wBBg3HY5f8FmNafi3Q6-33" value="公告管理" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1220" y="920" width="50" height="150" as="geometry" />
@@ -86,13 +86,13 @@
           <mxGeometry x="1090" y="900" width="50" height="150" as="geometry" />
         </mxCell>
         <mxCell id="1wBBg3HY5f8FmNafi3Q6-35" value="商家审核" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="810" y="870" width="50" height="150" as="geometry" />
+          <mxGeometry x="930" y="720" width="50" height="150" as="geometry" />
         </mxCell>
         <mxCell id="1wBBg3HY5f8FmNafi3Q6-36" value="订单监控" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="930" y="900" width="50" height="150" as="geometry" />
         </mxCell>
         <mxCell id="1wBBg3HY5f8FmNafi3Q6-37" value="数据可视化" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="670" width="50" height="150" as="geometry" />
+          <mxGeometry x="1460" y="720" width="50" height="150" as="geometry" />
         </mxCell>
         <mxCell id="1wBBg3HY5f8FmNafi3Q6-38" value="轮播图管理" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1380" y="940" width="50" height="150" as="geometry" />
