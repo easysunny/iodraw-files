@@ -86,7 +86,7 @@
           <mxGeometry x="1210" y="740" width="50" height="150" as="geometry" />
         </mxCell>
         <mxCell id="1wBBg3HY5f8FmNafi3Q6-35" value="商家审核" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="750" width="50" height="150" as="geometry" />
+          <mxGeometry x="810" y="870" width="50" height="150" as="geometry" />
         </mxCell>
         <mxCell id="1wBBg3HY5f8FmNafi3Q6-36" value="订单监控" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="930" y="900" width="50" height="150" as="geometry" />
