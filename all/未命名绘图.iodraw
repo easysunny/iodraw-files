@@ -7,8 +7,8 @@
         <mxCell id="1wBBg3HY5f8FmNafi3Q6-3" value="&lt;span style=&quot;font-size:14.0pt;font-family:宋体;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;mso-bidi-font-weight:&lt;br/&gt;bold&quot;&gt;二次元动漫商品交易系统&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="520" width="260" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1wBBg3HY5f8FmNafi3Q6-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="1wBBg3HY5f8FmNafi3Q6-4" value="用户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="600" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
