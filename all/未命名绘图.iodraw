@@ -55,8 +55,8 @@
         <mxCell id="1wBBg3HY5f8FmNafi3Q6-23" value="商家认证" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="120" y="720" width="50" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="1wBBg3HY5f8FmNafi3Q6-24" value="数据统计分析" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="530" y="730" width="50" height="150" as="geometry" />
+        <mxCell id="1wBBg3HY5f8FmNafi3Q6-24" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="827" y="710" width="50" height="150" as="geometry" />
         </mxCell>
         <mxCell id="1wBBg3HY5f8FmNafi3Q6-25" value="客户服务" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="420" y="730" width="50" height="150" as="geometry" />
@@ -71,10 +71,10 @@
           <mxGeometry x="540" y="740" width="50" height="150" as="geometry" />
         </mxCell>
         <mxCell id="1wBBg3HY5f8FmNafi3Q6-30" value="数据统计分析" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="550" y="750" width="50" height="150" as="geometry" />
+          <mxGeometry x="1180" y="710" width="50" height="150" as="geometry" />
         </mxCell>
         <mxCell id="1wBBg3HY5f8FmNafi3Q6-31" value="数据统计分析" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="560" y="760" width="50" height="150" as="geometry" />
+          <mxGeometry x="1000" y="710" width="50" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
