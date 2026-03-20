@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="2cxDc49rQ_J-jr3nayD4">
-    <mxGraphModel dx="42776" dy="29966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="46084" dy="32304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -116,10 +116,10 @@
         <mxCell id="edge_m4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0.5;entryY=0;strokeWidth=1.5;endArrow=none;" parent="1" source="root_node" target="mod_4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v1" value="评价系统模块" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="v1" value="订单创建" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-1270" y="-1150" width="45" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="v2" value="论坛交流模块" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="v2" value="支付" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-1115" y="-1150" width="45" height="160" as="geometry" />
         </mxCell>
       </root>
